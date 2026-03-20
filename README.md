@@ -1,2 +1,3 @@
-# mini-e-learning-q7xw
-Automated issue comment bot repository
+# Mini E Learning Q7Xw
+
+Automated issue comment bot repository.
